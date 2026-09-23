@@ -11,9 +11,9 @@ from typing import Any
 from globus_compute_sdk import Client
 
 try:
-    from .utils import load_config, write_results_csv
+    from .utils import build_github_urls, load_config, write_results_csv
 except ImportError:
-    from utils import load_config, write_results_csv
+    from utils import build_github_urls, load_config, write_results_csv
 
 
 def in_band_worker(payload: bytes) -> dict[str, Any]:
@@ -146,10 +146,7 @@ def run_bateria(config_path: str | Path = "config.yaml") -> Path:
     if not isinstance(repetitions, int) or repetitions <= 0:
         raise ValueError("'repetitions.bateria_2' deve ser um inteiro positivo.")
 
-    github_config = config["github"]
-    urls = github_config.get("urls", [])
-    if not isinstance(urls, list) or not all(isinstance(url, str) for url in urls):
-        raise ValueError("'github.urls' deve ser uma lista de URLs.")
+    urls = build_github_urls(config)
 
     poll_config = config.get("polling", {})
     poll_interval = float(poll_config.get("interval_seconds", 2))

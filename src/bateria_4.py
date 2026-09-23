@@ -13,9 +13,9 @@ from typing import Any, Callable
 from globus_compute_sdk import Client, Executor
 
 try:
-    from .utils import load_config, write_results_csv
+    from .utils import build_github_urls, load_config, write_results_csv
 except ImportError:
-    from utils import load_config, write_results_csv
+    from utils import build_github_urls, load_config, write_results_csv
 
 
 def disk_worker(url: str) -> dict[str, Any]:
@@ -137,11 +137,7 @@ def run_bateria(config_path: str | Path = "config.yaml") -> Path:
     if not isinstance(repetitions, int) or repetitions <= 0:
         raise ValueError("'repetitions.bateria_4' deve ser um inteiro positivo.")
 
-    urls = config["github"].get("urls", [])
-    if not isinstance(urls, list) or not urls:
-        raise ValueError("'github.urls' deve ser uma lista não vazia.")
-    if not all(isinstance(url, str) and url for url in urls):
-        raise ValueError("'github.urls' deve conter apenas URLs não vazias.")
+    urls = build_github_urls(config)
 
     client = Client()
     results: list[dict[str, Any]] = []

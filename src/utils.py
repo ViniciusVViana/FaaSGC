@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 from typing import Any, Mapping, Sequence
+from urllib.parse import urljoin
 
 import yaml
 
@@ -55,10 +56,29 @@ def load_config(config_path: str | Path = "config.yaml") -> dict[str, Any]:
 
     if not isinstance(config["github"], dict):
         raise ValueError("'github' deve ser um objeto.")
+    github_config = config["github"]
+    if not isinstance(github_config.get("base_url"), str) or not github_config[
+        "base_url"
+    ]:
+        raise ValueError("'github.base_url' deve ser uma URL não vazia.")
+    if not isinstance(github_config.get("paths"), list) or not github_config["paths"]:
+        raise ValueError("'github.paths' deve ser uma lista não vazia.")
+    if not all(
+        isinstance(path, str) and path for path in github_config["paths"]
+    ):
+        raise ValueError("'github.paths' deve conter apenas caminhos não vazios.")
     if not isinstance(config["repetitions"], dict):
         raise ValueError("'repetitions' deve ser um objeto.")
 
     return config
+
+
+def build_github_urls(config: Mapping[str, Any]) -> list[str]:
+    """Combina a URL base do GitHub com os caminhos relativos configurados."""
+    github_config = config["github"]
+    base_url = str(github_config["base_url"]).rstrip("/") + "/"
+    paths = github_config["paths"]
+    return [urljoin(base_url, str(path).lstrip("/")) for path in paths]
 
 
 def write_results_csv(
