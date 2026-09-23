@@ -1,0 +1,38 @@
+# Configuração compartilhada pelas quatro baterias de testes.
+# Substitua o endpoint_id e as URLs pelos recursos usados no experimento.
+
+endpoint_id: "SEU-ENDPOINT-ID"
+
+payload_sizes_bytes:
+  - 10240
+  - 102400
+  - 1048576
+  - 5242880
+  - 10485760
+
+github:
+  base_url: "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main"
+  urls:
+    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/10KB/arquivo_001.txt"
+    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/100KB/arquivo_001.txt"
+    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/1MB/arquivo_001.txt"
+    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/5MB/arquivo_001.txt"
+    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/10MB/arquivo_001.txt"
+
+repetitions:
+  bateria_1: 100
+  bateria_2: 10
+  bateria_3: 10
+  bateria_4: 100
+
+concurrency_levels:
+  - 10
+  - 100
+  - 500
+
+# Parâmetros usados pela Bateria 2 durante o acompanhamento das tarefas.
+polling:
+  interval_seconds: 2
+  timeout_seconds: 3600
+
+results_directory: "./resultados"
