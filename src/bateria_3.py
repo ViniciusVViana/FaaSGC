@@ -11,9 +11,9 @@ from typing import Any, Callable
 from globus_compute_sdk import Client, Executor
 
 try:
-    from .utils import load_config, write_results_csv
+    from .utils import build_github_urls, load_config, write_results_csv
 except ImportError:
-    from utils import load_config, write_results_csv
+    from utils import build_github_urls, load_config, write_results_csv
 
 
 def in_band_worker(payload: bytes) -> dict[str, Any]:
@@ -59,7 +59,7 @@ def _build_burst_inputs(
         ]
 
     if not urls:
-        raise ValueError("É necessário informar github.urls para out-of-band.")
+        raise ValueError("É necessário informar github.paths para out-of-band.")
     return [
         (
             f"b3-{scenario}-{burst_size}-r{repetition:03d}-t{task_number:03d}",
@@ -151,7 +151,7 @@ def run_bateria(config_path: str | Path = "config.yaml") -> Path:
         raise ValueError("'concurrency_levels' deve conter inteiros positivos.")
 
     payload_sizes = config["payload_sizes_bytes"]
-    urls = config["github"].get("urls", [])
+    urls = build_github_urls(config)
     results: list[dict[str, Any]] = []
     client = Client()
 

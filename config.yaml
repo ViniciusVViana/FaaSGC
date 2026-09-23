@@ -11,13 +11,13 @@ payload_sizes_bytes:
   - 10485760
 
 github:
-  base_url: "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main"
-  urls:
-    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/10KB/arquivo_001.txt"
-    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/100KB/arquivo_001.txt"
-    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/1MB/arquivo_001.txt"
-    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/5MB/arquivo_001.txt"
-    - "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/10MB/arquivo_001.txt"
+  base_url: "https://raw.githubusercontent.com/ViniciusVViana/FaaSGC/refs/heads/main"
+  paths:
+    - "/data/arquivos_teste/10KB/arquivo_001.txt"
+    - "/data/arquivos_teste/100KB/arquivo_001.txt"
+    - "/data/arquivos_teste/1MB/arquivo_001.txt"
+    - "/data/arquivos_teste/5MB/arquivo_001.txt"
+    - "/data/arquivos_teste/10MB/arquivo_001.txt"
 
 repetitions:
   bateria_1: 100
