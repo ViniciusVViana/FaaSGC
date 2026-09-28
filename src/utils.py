@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import os
 from pathlib import Path
 from typing import Any, Mapping, Sequence
 from urllib.parse import urljoin
@@ -35,7 +36,6 @@ def load_config(config_path: str | Path = "config.yaml") -> dict[str, Any]:
         raise ValueError("A configuração YAML deve conter um objeto no nível raiz.")
 
     required_keys = {
-        "endpoint_id",
         "payload_sizes_bytes",
         "github",
         "repetitions",
@@ -45,6 +45,14 @@ def load_config(config_path: str | Path = "config.yaml") -> dict[str, Any]:
         raise ValueError(
             "Configuração incompleta. Chaves ausentes: " + ", ".join(missing_keys)
         )
+
+    endpoint_id = os.getenv("GLOBUS_COMPUTE_ENDPOINT_ID")
+    if not endpoint_id:
+        raise ValueError(
+            "Defina a variável de ambiente GLOBUS_COMPUTE_ENDPOINT_ID "
+            "antes de executar uma bateria."
+        )
+    config["endpoint_id"] = endpoint_id
 
     if not isinstance(config["payload_sizes_bytes"], list):
         raise ValueError("'payload_sizes_bytes' deve ser uma lista.")

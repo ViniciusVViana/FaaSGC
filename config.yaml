@@ -1,7 +1,5 @@
 # Configuração compartilhada pelas quatro baterias de testes.
-# Substitua o endpoint_id e as URLs pelos recursos usados no experimento.
-
-endpoint_id: "SEU-ENDPOINT-ID"
+# O endpoint é lido da variável GLOBUS_COMPUTE_ENDPOINT_ID.
 
 payload_sizes_bytes:
   - 10240

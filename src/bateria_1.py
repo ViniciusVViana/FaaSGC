@@ -10,13 +10,15 @@ from typing import Any
 from globus_compute_sdk import Client, Executor
 
 try:
-    from .utils import load_config, write_results_csv
+    from utils import load_config, write_results_csv
 except ImportError:
     from utils import load_config, write_results_csv
 
 
 def in_band_worker(payload: bytes) -> dict[str, Any]:
     """Retorna o tamanho recebido e o tempo gasto no worker."""
+    import time
+    
     start_worker = time.perf_counter()
     tamanho_bytes = len(payload)
     end_worker = time.perf_counter()

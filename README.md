@@ -62,9 +62,26 @@ Como solução arquitetural, o trabalho propõe e avalia uma estratégia de miti
 
 
 
-## 🚀 Como Executar (Em breve)
+## 🚀 Como Executar
 
 
 
-As instruções detalhadas para configuração do *endpoint* local, autenticação no *Globus Auth* e execução das baterias de testes serão adicionadas conforme a consolidação dos scripts.
+Antes de executar qualquer bateria, defina o endpoint por variável de ambiente. O
+arquivo `.env` não é versionado; use `.env.example` como modelo.
 
+No PowerShell:
+
+```powershell
+$env:GLOBUS_COMPUTE_ENDPOINT_ID = "seu-endpoint-id"
+python src\bateria_1.py
+```
+
+No Linux/macOS:
+
+```bash
+export GLOBUS_COMPUTE_ENDPOINT_ID="seu-endpoint-id"
+python src/bateria_1.py
+```
+
+O arquivo `config.yaml` contém os parâmetros do experimento, mas não armazena o
+`endpoint_id`.

@@ -1,3 +1,5 @@
 .idea/
 .vscode/
 .globus_compute_venv/
+__pycache__
+.env

@@ -18,6 +18,8 @@ except ImportError:
 
 def in_band_worker(payload: bytes) -> dict[str, Any]:
     """Mede o tempo do worker para um payload enviado diretamente."""
+    import time
+
     start_worker = time.perf_counter()
     tamanho_bytes = len(payload)
     end_worker = time.perf_counter()
@@ -29,6 +31,8 @@ def in_band_worker(payload: bytes) -> dict[str, Any]:
 
 def out_of_band_worker(url: str) -> dict[str, Any]:
     """Baixa a URL no endpoint e mede o tempo total do worker."""
+    import time
+    
     start_worker = time.perf_counter()
     with urllib.request.urlopen(url) as response:
         payload = response.read()

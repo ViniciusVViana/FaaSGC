@@ -1,0 +1,501 @@
+﻿bateria;cenario;id_tarefa;tamanho_bytes;rtt_total_segundos;tempo_worker_segundos;overhead_rede_nuvem_segundos;status
+bateria_1;in_band;b1-01-001;10240;5.824019;0.0;5.824019;Sucesso
+bateria_1;in_band;b1-01-002;10240;1.537901;1e-06;1.5379;Sucesso
+bateria_1;in_band;b1-01-003;10240;1.542895;1e-06;1.542895;Sucesso
+bateria_1;in_band;b1-01-004;10240;1.525563;0.0;1.525563;Sucesso
+bateria_1;in_band;b1-01-005;10240;4.609016;1e-06;4.609016;Sucesso
+bateria_1;in_band;b1-01-006;10240;5.118329;0.0;5.118329;Sucesso
+bateria_1;in_band;b1-01-007;10240;4.618514;0.0;4.618513;Sucesso
+bateria_1;in_band;b1-01-008;10240;5.124188;1e-06;5.124187;Sucesso
+bateria_1;in_band;b1-01-009;10240;5.081884;0.0;5.081883;Sucesso
+bateria_1;in_band;b1-01-010;10240;4.567734;1e-06;4.567733;Sucesso
+bateria_1;in_band;b1-01-011;10240;5.13012;1e-06;5.13012;Sucesso
+bateria_1;in_band;b1-01-012;10240;5.626944;0.0;5.626944;Sucesso
+bateria_1;in_band;b1-01-013;10240;1.014743;0.0;1.014742;Sucesso
+bateria_1;in_band;b1-01-014;10240;4.576611;0.0;4.576611;Sucesso
+bateria_1;in_band;b1-01-015;10240;4.609098;1e-06;4.609098;Sucesso
+bateria_1;in_band;b1-01-016;10240;4.562808;0.0;4.562808;Sucesso
+bateria_1;in_band;b1-01-017;10240;5.097377;0.0;5.097376;Sucesso
+bateria_1;in_band;b1-01-018;10240;5.093518;0.0;5.093517;Sucesso
+bateria_1;in_band;b1-01-019;10240;4.609028;0.0;4.609027;Sucesso
+bateria_1;in_band;b1-01-020;10240;5.587239;0.0;5.587238;Sucesso
+bateria_1;in_band;b1-01-021;10240;1.515905;0.0;1.515905;Sucesso
+bateria_1;in_band;b1-01-022;10240;4.599636;0.0;4.599636;Sucesso
+bateria_1;in_band;b1-01-023;10240;4.093805;0.0;4.093805;Sucesso
+bateria_1;in_band;b1-01-024;10240;5.107617;0.0;5.107617;Sucesso
+bateria_1;in_band;b1-01-025;10240;5.605287;1e-06;5.605287;Sucesso
+bateria_1;in_band;b1-01-026;10240;1.021888;0.0;1.021888;Sucesso
+bateria_1;in_band;b1-01-027;10240;4.608322;0.0;4.608321;Sucesso
+bateria_1;in_band;b1-01-028;10240;5.101764;0.0;5.101764;Sucesso
+bateria_1;in_band;b1-01-029;10240;5.102069;1e-06;5.102069;Sucesso
+bateria_1;in_band;b1-01-030;10240;5.580594;0.0;5.580593;Sucesso
+bateria_1;in_band;b1-01-031;10240;1.024612;1e-06;1.024611;Sucesso
+bateria_1;in_band;b1-01-032;10240;6.642734;0.0;6.642734;Sucesso
+bateria_1;in_band;b1-01-033;10240;3.055411;0.0;3.055411;Sucesso
+bateria_1;in_band;b1-01-034;10240;5.118164;0.0;5.118164;Sucesso
+bateria_1;in_band;b1-01-035;10240;4.605483;0.0;4.605482;Sucesso
+bateria_1;in_band;b1-01-036;10240;5.110244;0.0;5.110244;Sucesso
+bateria_1;in_band;b1-01-037;10240;5.112462;0.0;5.112462;Sucesso
+bateria_1;in_band;b1-01-038;10240;4.593686;0.0;4.593686;Sucesso
+bateria_1;in_band;b1-01-039;10240;5.113822;0.0;5.113821;Sucesso
+bateria_1;in_band;b1-01-040;10240;4.591269;0.0;4.591268;Sucesso
+bateria_1;in_band;b1-01-041;10240;5.623277;0.0;5.623277;Sucesso
+bateria_1;in_band;b1-01-042;10240;1.026058;1e-06;1.026057;Sucesso
+bateria_1;in_band;b1-01-043;10240;4.57306;0.0;4.573059;Sucesso
+bateria_1;in_band;b1-01-044;10240;5.105619;0.0;5.105619;Sucesso
+bateria_1;in_band;b1-01-045;10240;4.594547;0.0;4.594546;Sucesso
+bateria_1;in_band;b1-01-046;10240;4.604403;0.0;4.604402;Sucesso
+bateria_1;in_band;b1-01-047;10240;5.589639;0.0;5.589639;Sucesso
+bateria_1;in_band;b1-01-048;10240;4.598664;0.0;4.598663;Sucesso
+bateria_1;in_band;b1-01-049;10240;4.598842;0.0;4.598842;Sucesso
+bateria_1;in_band;b1-01-050;10240;5.11348;1e-06;5.11348;Sucesso
+bateria_1;in_band;b1-01-051;10240;5.129739;1e-06;5.129738;Sucesso
+bateria_1;in_band;b1-01-052;10240;4.582601;0.0;4.582601;Sucesso
+bateria_1;in_band;b1-01-053;10240;5.099281;1e-06;5.099281;Sucesso
+bateria_1;in_band;b1-01-054;10240;5.129969;0.0;5.129969;Sucesso
+bateria_1;in_band;b1-01-055;10240;5.121687;1e-06;5.121687;Sucesso
+bateria_1;in_band;b1-01-056;10240;1.007537;1e-06;1.007536;Sucesso
+bateria_1;in_band;b1-01-057;10240;5.134615;0.0;5.134614;Sucesso
+bateria_1;in_band;b1-01-058;10240;6.648455;0.0;6.648454;Sucesso
+bateria_1;in_band;b1-01-059;10240;9.686402;0.0;9.686402;Sucesso
+bateria_1;in_band;b1-01-060;10240;1.021274;0.0;1.021274;Sucesso
+bateria_1;in_band;b1-01-061;10240;1.006151;0.0;1.006151;Sucesso
+bateria_1;in_band;b1-01-062;10240;4.612124;1e-06;4.612124;Sucesso
+bateria_1;in_band;b1-01-063;10240;5.101205;0.0;5.101204;Sucesso
+bateria_1;in_band;b1-01-064;10240;5.068312;0.0;5.068311;Sucesso
+bateria_1;in_band;b1-01-065;10240;6.054825;0.0;6.054824;Sucesso
+bateria_1;in_band;b1-01-066;10240;1.023721;1e-06;1.023721;Sucesso
+bateria_1;in_band;b1-01-067;10240;4.583283;1e-06;4.583283;Sucesso
+bateria_1;in_band;b1-01-068;10240;5.110124;1e-06;5.110123;Sucesso
+bateria_1;in_band;b1-01-069;10240;4.092958;1e-06;4.092957;Sucesso
+bateria_1;in_band;b1-01-070;10240;5.620071;1e-06;5.62007;Sucesso
+bateria_1;in_band;b1-01-071;10240;4.579995;1e-06;4.579994;Sucesso
+bateria_1;in_band;b1-01-072;10240;5.601428;1e-06;5.601427;Sucesso
+bateria_1;in_band;b1-01-073;10240;1.014118;1e-06;1.014118;Sucesso
+bateria_1;in_band;b1-01-074;10240;5.094903;0.0;5.094902;Sucesso
+bateria_1;in_band;b1-01-075;10240;5.053582;0.0;5.053582;Sucesso
+bateria_1;in_band;b1-01-076;10240;3.541154;1e-06;3.541153;Sucesso
+bateria_1;in_band;b1-01-077;10240;4.58932;0.0;4.589319;Sucesso
+bateria_1;in_band;b1-01-078;10240;4.581308;0.0;4.581308;Sucesso
+bateria_1;in_band;b1-01-079;10240;5.602103;0.0;5.602103;Sucesso
+bateria_1;in_band;b1-01-080;10240;5.620859;0.0;5.620859;Sucesso
+bateria_1;in_band;b1-01-081;10240;1.554153;0.0;1.554152;Sucesso
+bateria_1;in_band;b1-01-082;10240;4.081137;0.0;4.081137;Sucesso
+bateria_1;in_band;b1-01-083;10240;5.091119;0.0;5.091119;Sucesso
+bateria_1;in_band;b1-01-084;10240;5.093277;0.0;5.093277;Sucesso
+bateria_1;in_band;b1-01-085;10240;4.572115;0.0;4.572115;Sucesso
+bateria_1;in_band;b1-01-086;10240;5.116652;1e-06;5.116652;Sucesso
+bateria_1;in_band;b1-01-087;10240;5.121073;1e-06;5.121072;Sucesso
+bateria_1;in_band;b1-01-088;10240;10.70549;0.0;10.70549;Sucesso
+bateria_1;in_band;b1-01-089;10240;1.010631;0.0;1.010631;Sucesso
+bateria_1;in_band;b1-01-090;10240;1.02151;0.0;1.02151;Sucesso
+bateria_1;in_band;b1-01-091;10240;5.120523;0.0;5.120522;Sucesso
+bateria_1;in_band;b1-01-092;10240;4.550678;0.0;4.550677;Sucesso
+bateria_1;in_band;b1-01-093;10240;5.613733;1e-06;5.613733;Sucesso
+bateria_1;in_band;b1-01-094;10240;4.606442;0.0;4.606441;Sucesso
+bateria_1;in_band;b1-01-095;10240;4.613525;1e-06;4.613524;Sucesso
+bateria_1;in_band;b1-01-096;10240;4.616119;1e-06;4.616119;Sucesso
+bateria_1;in_band;b1-01-097;10240;5.612057;1e-06;5.612056;Sucesso
+bateria_1;in_band;b1-01-098;10240;4.590582;0.0;4.590581;Sucesso
+bateria_1;in_band;b1-01-099;10240;4.620953;1e-06;4.620952;Sucesso
+bateria_1;in_band;b1-01-100;10240;6.122522;1e-06;6.122521;Sucesso
+bateria_1;in_band;b1-02-001;102400;2.034413;0.0;2.034413;Sucesso
+bateria_1;in_band;b1-02-002;102400;5.605321;1e-06;5.60532;Sucesso
+bateria_1;in_band;b1-02-003;102400;5.121791;0.0;5.121791;Sucesso
+bateria_1;in_band;b1-02-004;102400;4.588859;0.0;4.588858;Sucesso
+bateria_1;in_band;b1-02-005;102400;1.526792;0.0;1.526791;Sucesso
+bateria_1;in_band;b1-02-006;102400;5.120427;0.0;5.120427;Sucesso
+bateria_1;in_band;b1-02-007;102400;5.610882;1e-06;5.610881;Sucesso
+bateria_1;in_band;b1-02-008;102400;5.551465;0.0;5.551465;Sucesso
+bateria_1;in_band;b1-02-009;102400;1.52478;0.0;1.52478;Sucesso
+bateria_1;in_band;b1-02-010;102400;5.05825;0.0;5.05825;Sucesso
+bateria_1;in_band;b1-02-011;102400;5.095776;0.0;5.095775;Sucesso
+bateria_1;in_band;b1-02-012;102400;4.580607;0.0;4.580606;Sucesso
+bateria_1;in_band;b1-02-013;102400;1.515378;0.0;1.515378;Sucesso
+bateria_1;in_band;b1-02-014;102400;4.556441;1e-06;4.556441;Sucesso
+bateria_1;in_band;b1-02-015;102400;5.042286;1e-06;5.042286;Sucesso
+bateria_1;in_band;b1-02-016;102400;6.094138;1e-06;6.094138;Sucesso
+bateria_1;in_band;b1-02-017;102400;1.540632;0.0;1.540631;Sucesso
+bateria_1;in_band;b1-02-018;102400;8.130709;0.0;8.130709;Sucesso
+bateria_1;in_band;b1-02-019;102400;2.036822;1e-06;2.036821;Sucesso
+bateria_1;in_band;b1-02-020;102400;5.096272;0.0;5.096271;Sucesso
+bateria_1;in_band;b1-02-021;102400;1.022248;0.0;1.022247;Sucesso
+bateria_1;in_band;b1-02-022;102400;5.110599;0.0;5.110598;Sucesso
+bateria_1;in_band;b1-02-023;102400;5.096675;1e-06;5.096674;Sucesso
+bateria_1;in_band;b1-02-024;102400;5.623098;0.0;5.623098;Sucesso
+bateria_1;in_band;b1-02-025;102400;3.083031;1e-06;3.083031;Sucesso
+bateria_1;in_band;b1-02-026;102400;5.640315;0.0;5.640314;Sucesso
+bateria_1;in_band;b1-02-027;102400;3.592104;0.0;3.592103;Sucesso
+bateria_1;in_band;b1-02-028;102400;5.616221;0.0;5.61622;Sucesso
+bateria_1;in_band;b1-02-029;102400;1.521826;1e-06;1.521825;Sucesso
+bateria_1;in_band;b1-02-030;102400;4.615143;0.0;4.615142;Sucesso
+bateria_1;in_band;b1-02-031;102400;5.112391;1e-06;5.112391;Sucesso
+bateria_1;in_band;b1-02-032;102400;5.616623;0.0;5.616622;Sucesso
+bateria_1;in_band;b1-02-033;102400;1.518062;1e-06;1.518061;Sucesso
+bateria_1;in_band;b1-02-034;102400;4.60329;1e-06;4.603289;Sucesso
+bateria_1;in_band;b1-02-035;102400;5.107963;0.0;5.107962;Sucesso
+bateria_1;in_band;b1-02-036;102400;5.109013;0.0;5.109013;Sucesso
+bateria_1;in_band;b1-02-037;102400;5.108209;0.0;5.108209;Sucesso
+bateria_1;in_band;b1-02-038;102400;1.53587;0.0;1.53587;Sucesso
+bateria_1;in_band;b1-02-039;102400;4.09383;0.0;4.09383;Sucesso
+bateria_1;in_band;b1-02-040;102400;6.134135;1e-06;6.134135;Sucesso
+bateria_1;in_band;b1-02-041;102400;4.60318;0.0;4.603179;Sucesso
+bateria_1;in_band;b1-02-042;102400;2.044873;0.0;2.044872;Sucesso
+bateria_1;in_band;b1-02-043;102400;4.612335;0.0;4.612335;Sucesso
+bateria_1;in_band;b1-02-044;102400;4.566909;0.0;4.566909;Sucesso
+bateria_1;in_band;b1-02-045;102400;5.619045;1e-06;5.619044;Sucesso
+bateria_1;in_band;b1-02-046;102400;1.518385;0.0;1.518385;Sucesso
+bateria_1;in_band;b1-02-047;102400;5.095269;0.0;5.095269;Sucesso
+bateria_1;in_band;b1-02-048;102400;9.711486;0.0;9.711486;Sucesso
+bateria_1;in_band;b1-02-049;102400;2.060749;0.0;2.060748;Sucesso
+bateria_1;in_band;b1-02-050;102400;2.010937;1e-06;2.010937;Sucesso
+bateria_1;in_band;b1-02-051;102400;4.603923;0.0;4.603922;Sucesso
+bateria_1;in_band;b1-02-052;102400;5.098758;0.0;5.098758;Sucesso
+bateria_1;in_band;b1-02-053;102400;5.597538;1e-06;5.597537;Sucesso
+bateria_1;in_band;b1-02-054;102400;1.537838;0.0;1.537838;Sucesso
+bateria_1;in_band;b1-02-055;102400;5.106626;0.0;5.106625;Sucesso
+bateria_1;in_band;b1-02-056;102400;4.60578;1e-06;4.605779;Sucesso
+bateria_1;in_band;b1-02-057;102400;4.602746;1e-06;4.602746;Sucesso
+bateria_1;in_band;b1-02-058;102400;5.61489;0.0;5.61489;Sucesso
+bateria_1;in_band;b1-02-059;102400;1.537826;1e-06;1.537826;Sucesso
+bateria_1;in_band;b1-02-060;102400;5.585549;1e-06;5.585548;Sucesso
+bateria_1;in_band;b1-02-061;102400;4.587957;0.0;4.587957;Sucesso
+bateria_1;in_band;b1-02-062;102400;5.112466;1e-06;5.112465;Sucesso
+bateria_1;in_band;b1-02-063;102400;2.031578;0.0;2.031578;Sucesso
+bateria_1;in_band;b1-02-064;102400;5.113196;0.0;5.113195;Sucesso
+bateria_1;in_band;b1-02-065;102400;5.114009;0.0;5.114009;Sucesso
+bateria_1;in_band;b1-02-066;102400;5.622385;1e-06;5.622385;Sucesso
+bateria_1;in_band;b1-02-067;102400;2.050954;0.0;2.050954;Sucesso
+bateria_1;in_band;b1-02-068;102400;4.075793;0.0;4.075792;Sucesso
+bateria_1;in_band;b1-02-069;102400;4.58624;1e-06;4.586239;Sucesso
+bateria_1;in_band;b1-02-070;102400;4.584563;1e-06;4.584563;Sucesso
+bateria_1;in_band;b1-02-071;102400;5.123566;0.0;5.123566;Sucesso
+bateria_1;in_band;b1-02-072;102400;4.602481;1e-06;4.60248;Sucesso
+bateria_1;in_band;b1-02-073;102400;4.593118;0.0;4.593117;Sucesso
+bateria_1;in_band;b1-02-074;102400;5.128482;1e-06;5.128481;Sucesso
+bateria_1;in_band;b1-02-075;102400;4.603466;0.0;4.603465;Sucesso
+bateria_1;in_band;b1-02-076;102400;5.616561;0.0;5.61656;Sucesso
+bateria_1;in_band;b1-02-077;102400;2.049299;0.0;2.049298;Sucesso
+bateria_1;in_band;b1-02-078;102400;7.69114;0.0;7.69114;Sucesso
+bateria_1;in_band;b1-02-079;102400;1.522302;0.0;1.522302;Sucesso
+bateria_1;in_band;b1-02-080;102400;5.614185;8e-06;5.614177;Sucesso
+bateria_1;in_band;b1-02-081;102400;1.521459;0.0;1.521459;Sucesso
+bateria_1;in_band;b1-02-082;102400;5.127694;0.0;5.127694;Sucesso
+bateria_1;in_band;b1-02-083;102400;4.07538;1e-06;4.075379;Sucesso
+bateria_1;in_band;b1-02-084;102400;5.610169;0.0;5.610168;Sucesso
+bateria_1;in_band;b1-02-085;102400;1.536072;0.0;1.536072;Sucesso
+bateria_1;in_band;b1-02-086;102400;4.595479;0.0;4.595478;Sucesso
+bateria_1;in_band;b1-02-087;102400;5.114107;1e-06;5.114106;Sucesso
+bateria_1;in_band;b1-02-088;102400;5.126259;0.0;5.126258;Sucesso
+bateria_1;in_band;b1-02-089;102400;1.537958;1e-06;1.537957;Sucesso
+bateria_1;in_band;b1-02-090;102400;5.100946;0.0;5.100946;Sucesso
+bateria_1;in_band;b1-02-091;102400;4.592472;0.0;4.592472;Sucesso
+bateria_1;in_band;b1-02-092;102400;5.618276;0.0;5.618276;Sucesso
+bateria_1;in_band;b1-02-093;102400;2.036818;0.0;2.036817;Sucesso
+bateria_1;in_band;b1-02-094;102400;5.106523;1e-06;5.106522;Sucesso
+bateria_1;in_band;b1-02-095;102400;5.104573;1e-06;5.104573;Sucesso
+bateria_1;in_band;b1-02-096;102400;4.605061;0.0;4.605061;Sucesso
+bateria_1;in_band;b1-02-097;102400;1.537135;1e-06;1.537135;Sucesso
+bateria_1;in_band;b1-02-098;102400;5.115649;0.0;5.115649;Sucesso
+bateria_1;in_band;b1-02-099;102400;5.124319;0.0;5.124319;Sucesso
+bateria_1;in_band;b1-02-100;102400;5.617478;0.0;5.617478;Sucesso
+bateria_1;in_band;b1-03-001;1048576;6.140063;1e-06;6.140062;Sucesso
+bateria_1;in_band;b1-03-002;1048576;5.09157;1e-06;5.09157;Sucesso
+bateria_1;in_band;b1-03-003;1048576;5.099559;0.0;5.099559;Sucesso
+bateria_1;in_band;b1-03-004;1048576;4.60715;1e-06;4.60715;Sucesso
+bateria_1;in_band;b1-03-005;1048576;6.14111;1e-06;6.14111;Sucesso
+bateria_1;in_band;b1-03-006;1048576;11.755811;0.0;11.755811;Sucesso
+bateria_1;in_band;b1-03-007;1048576;6.14029;1e-06;6.140289;Sucesso
+bateria_1;in_band;b1-03-008;1048576;6.144621;0.0;6.14462;Sucesso
+bateria_1;in_band;b1-03-009;1048576;5.615688;0.0;5.615688;Sucesso
+bateria_1;in_band;b1-03-010;1048576;5.599935;1e-06;5.599934;Sucesso
+bateria_1;in_band;b1-03-011;1048576;5.617143;1e-06;5.617143;Sucesso
+bateria_1;in_band;b1-03-012;1048576;5.597729;0.0;5.597729;Sucesso
+bateria_1;in_band;b1-03-013;1048576;6.661155;0.0;6.661154;Sucesso
+bateria_1;in_band;b1-03-014;1048576;5.609519;1e-06;5.609518;Sucesso
+bateria_1;in_band;b1-03-015;1048576;5.113572;0.0;5.113571;Sucesso
+bateria_1;in_band;b1-03-016;1048576;5.107457;1e-06;5.107456;Sucesso
+bateria_1;in_band;b1-03-017;1048576;5.11255;1e-06;5.11255;Sucesso
+bateria_1;in_band;b1-03-018;1048576;5.640377;1e-06;5.640376;Sucesso
+bateria_1;in_band;b1-03-019;1048576;5.620015;0.0;5.620015;Sucesso
+bateria_1;in_band;b1-03-020;1048576;5.618727;0.0;5.618726;Sucesso
+bateria_1;in_band;b1-03-021;1048576;5.598528;0.0;5.598527;Sucesso
+bateria_1;in_band;b1-03-022;1048576;6.124483;1e-06;6.124482;Sucesso
+bateria_1;in_band;b1-03-023;1048576;4.604688;0.0;4.604688;Sucesso
+bateria_1;in_band;b1-03-024;1048576;5.108755;1e-06;5.108754;Sucesso
+bateria_1;in_band;b1-03-025;1048576;5.613689;0.0;5.613689;Sucesso
+bateria_1;in_band;b1-03-026;1048576;6.106511;1e-06;6.106511;Sucesso
+bateria_1;in_band;b1-03-027;1048576;5.636994;0.0;5.636993;Sucesso
+bateria_1;in_band;b1-03-028;1048576;12.268484;0.0;12.268484;Sucesso
+bateria_1;in_band;b1-03-029;1048576;5.63359;1e-06;5.63359;Sucesso
+bateria_1;in_band;b1-03-030;1048576;6.151826;0.0;6.151825;Sucesso
+bateria_1;in_band;b1-03-031;1048576;5.586556;0.0;5.586556;Sucesso
+bateria_1;in_band;b1-03-032;1048576;5.608165;0.0;5.608164;Sucesso
+bateria_1;in_band;b1-03-033;1048576;5.619768;0.0;5.619768;Sucesso
+bateria_1;in_band;b1-03-034;1048576;5.596836;0.0;5.596836;Sucesso
+bateria_1;in_band;b1-03-035;1048576;6.121556;0.0;6.121555;Sucesso
+bateria_1;in_band;b1-03-036;1048576;5.595108;1e-06;5.595107;Sucesso
+bateria_1;in_band;b1-03-037;1048576;6.142009;1e-06;6.142008;Sucesso
+bateria_1;in_band;b1-03-038;1048576;5.598904;0.0;5.598903;Sucesso
+bateria_1;in_band;b1-03-039;1048576;5.608758;0.0;5.608758;Sucesso
+bateria_1;in_band;b1-03-040;1048576;6.608865;1e-06;6.608865;Sucesso
+bateria_1;in_band;b1-03-041;1048576;5.641204;0.0;5.641204;Sucesso
+bateria_1;in_band;b1-03-042;1048576;5.613001;1e-06;5.613001;Sucesso
+bateria_1;in_band;b1-03-043;1048576;6.127262;0.0;6.127262;Sucesso
+bateria_1;in_band;b1-03-044;1048576;5.592122;0.0;5.592122;Sucesso
+bateria_1;in_band;b1-03-045;1048576;5.615205;1e-06;5.615205;Sucesso
+bateria_1;in_band;b1-03-046;1048576;5.641101;0.0;5.641101;Sucesso
+bateria_1;in_band;b1-03-047;1048576;5.624763;1e-06;5.624762;Sucesso
+bateria_1;in_band;b1-03-048;1048576;5.62314;1e-06;5.623139;Sucesso
+bateria_1;in_band;b1-03-049;1048576;5.623936;0.0;5.623935;Sucesso
+bateria_1;in_band;b1-03-050;1048576;5.608381;0.0;5.60838;Sucesso
+bateria_1;in_band;b1-03-051;1048576;6.132421;0.0;6.13242;Sucesso
+bateria_1;in_band;b1-03-052;1048576;5.614983;1e-06;5.614983;Sucesso
+bateria_1;in_band;b1-03-053;1048576;6.648948;0.0;6.648948;Sucesso
+bateria_1;in_band;b1-03-054;1048576;5.589557;1e-06;5.589557;Sucesso
+bateria_1;in_band;b1-03-055;1048576;9.184863;0.0;9.184862;Sucesso
+bateria_1;in_band;b1-03-056;1048576;6.129913;1e-06;6.129913;Sucesso
+bateria_1;in_band;b1-03-057;1048576;5.634533;0.0;5.634532;Sucesso
+bateria_1;in_band;b1-03-058;1048576;5.091552;0.0;5.091552;Sucesso
+bateria_1;in_band;b1-03-059;1048576;5.60397;0.0;5.60397;Sucesso
+bateria_1;in_band;b1-03-060;1048576;5.626915;0.0;5.626914;Sucesso
+bateria_1;in_band;b1-03-061;1048576;5.112005;0.0;5.112005;Sucesso
+bateria_1;in_band;b1-03-062;1048576;5.615201;0.0;5.615201;Sucesso
+bateria_1;in_band;b1-03-063;1048576;5.6222;0.0;5.6222;Sucesso
+bateria_1;in_band;b1-03-064;1048576;6.638691;1e-06;6.638691;Sucesso
+bateria_1;in_band;b1-03-065;1048576;6.12122;0.0;6.121219;Sucesso
+bateria_1;in_band;b1-03-066;1048576;6.152234;0.0;6.152233;Sucesso
+bateria_1;in_band;b1-03-067;1048576;5.610404;0.0;5.610404;Sucesso
+bateria_1;in_band;b1-03-068;1048576;6.126983;1e-06;6.126982;Sucesso
+bateria_1;in_band;b1-03-069;1048576;5.575845;1e-06;5.575844;Sucesso
+bateria_1;in_band;b1-03-070;1048576;5.093802;0.0;5.093802;Sucesso
+bateria_1;in_band;b1-03-071;1048576;6.63428;0.0;6.63428;Sucesso
+bateria_1;in_band;b1-03-072;1048576;5.100894;0.0;5.100894;Sucesso
+bateria_1;in_band;b1-03-073;1048576;5.634981;0.0;5.63498;Sucesso
+bateria_1;in_band;b1-03-074;1048576;6.1325;0.0;6.1325;Sucesso
+bateria_1;in_band;b1-03-075;1048576;5.625678;1e-06;5.625677;Sucesso
+bateria_1;in_band;b1-03-076;1048576;5.613056;0.0;5.613056;Sucesso
+bateria_1;in_band;b1-03-077;1048576;9.691133;0.0;9.691132;Sucesso
+bateria_1;in_band;b1-03-078;1048576;4.093617;0.0;4.093617;Sucesso
+bateria_1;in_band;b1-03-079;1048576;7.167209;0.0;7.167208;Sucesso
+bateria_1;in_band;b1-03-080;1048576;4.577459;1e-06;4.577459;Sucesso
+bateria_1;in_band;b1-03-081;1048576;5.600277;0.0;5.600277;Sucesso
+bateria_1;in_band;b1-03-082;1048576;5.630263;0.0;5.630263;Sucesso
+bateria_1;in_band;b1-03-083;1048576;5.110569;0.0;5.110569;Sucesso
+bateria_1;in_band;b1-03-084;1048576;5.608195;1e-06;5.608194;Sucesso
+bateria_1;in_band;b1-03-085;1048576;5.103099;0.0;5.103099;Sucesso
+bateria_1;in_band;b1-03-086;1048576;5.651617;0.0;5.651617;Sucesso
+bateria_1;in_band;b1-03-087;1048576;4.606412;1e-06;4.606412;Sucesso
+bateria_1;in_band;b1-03-088;1048576;5.109454;1e-06;5.109454;Sucesso
+bateria_1;in_band;b1-03-089;1048576;6.142233;0.0;6.142233;Sucesso
+bateria_1;in_band;b1-03-090;1048576;5.626259;1e-06;5.626259;Sucesso
+bateria_1;in_band;b1-03-091;1048576;5.618338;0.0;5.618338;Sucesso
+bateria_1;in_band;b1-03-092;1048576;6.080402;0.0;6.080402;Sucesso
+bateria_1;in_band;b1-03-093;1048576;5.619316;0.0;5.619316;Sucesso
+bateria_1;in_band;b1-03-094;1048576;6.110212;0.0;6.110211;Sucesso
+bateria_1;in_band;b1-03-095;1048576;5.627142;1e-06;5.627141;Sucesso
+bateria_1;in_band;b1-03-096;1048576;5.619476;0.0;5.619476;Sucesso
+bateria_1;in_band;b1-03-097;1048576;6.094897;0.0;6.094897;Sucesso
+bateria_1;in_band;b1-03-098;1048576;5.638935;0.0;5.638934;Sucesso
+bateria_1;in_band;b1-03-099;1048576;5.11655;0.0;5.116549;Sucesso
+bateria_1;in_band;b1-03-100;1048576;8.674474;0.0;8.674474;Sucesso
+bateria_1;in_band;b1-04-001;5242880;13.783493;1e-06;13.783492;Sucesso
+bateria_1;in_band;b1-04-002;5242880;13.285505;0.0;13.285505;Sucesso
+bateria_1;in_band;b1-04-003;5242880;12.801805;1e-06;12.801805;Sucesso
+bateria_1;in_band;b1-04-004;5242880;13.299366;0.0;13.299365;Sucesso
+bateria_1;in_band;b1-04-005;5242880;11.743192;1e-06;11.743192;Sucesso
+bateria_1;in_band;b1-04-006;5242880;13.782078;1e-06;13.782077;Sucesso
+bateria_1;in_band;b1-04-007;5242880;12.252184;1e-06;12.252183;Sucesso
+bateria_1;in_band;b1-04-008;5242880;12.268291;1e-06;12.268291;Sucesso
+bateria_1;in_band;b1-04-009;5242880;12.228034;1e-06;12.228034;Sucesso
+bateria_1;in_band;b1-04-010;5242880;14.819457;0.0;14.819456;Sucesso
+bateria_1;in_band;b1-04-011;5242880;12.267731;1e-06;12.26773;Sucesso
+bateria_1;in_band;b1-04-012;5242880;12.24993;1e-06;12.249929;Sucesso
+bateria_1;in_band;b1-04-013;5242880;11.258089;1e-06;11.258089;Sucesso
+bateria_1;in_band;b1-04-014;5242880;13.812558;1e-06;13.812557;Sucesso
+bateria_1;in_band;b1-04-015;5242880;13.274742;0.0;13.274741;Sucesso
+bateria_1;in_band;b1-04-016;5242880;12.233155;1e-06;12.233154;Sucesso
+bateria_1;in_band;b1-04-017;5242880;12.789391;1e-06;12.789391;Sucesso
+bateria_1;in_band;b1-04-018;5242880;81.749017;0.0;81.749017;Sucesso
+bateria_1;in_band;b1-04-019;5242880;13.281853;1e-06;13.281853;Sucesso
+bateria_1;in_band;b1-04-020;5242880;13.25352;1e-06;13.25352;Sucesso
+bateria_1;in_band;b1-04-021;5242880;14.808209;1e-06;14.808209;Sucesso
+bateria_1;in_band;b1-04-022;5242880;12.774741;1e-06;12.77474;Sucesso
+bateria_1;in_band;b1-04-023;5242880;13.304643;1e-06;13.304642;Sucesso
+bateria_1;in_band;b1-04-024;5242880;12.760789;1e-06;12.760788;Sucesso
+bateria_1;in_band;b1-04-025;5242880;12.772732;1e-06;12.772732;Sucesso
+bateria_1;in_band;b1-04-026;5242880;13.786796;1e-06;13.786796;Sucesso
+bateria_1;in_band;b1-04-027;5242880;13.284492;1e-06;13.284492;Sucesso
+bateria_1;in_band;b1-04-028;5242880;12.75739;0.0;12.75739;Sucesso
+bateria_1;in_band;b1-04-029;5242880;12.242948;1e-06;12.242947;Sucesso
+bateria_1;in_band;b1-04-030;5242880;12.23963;1e-06;12.23963;Sucesso
+bateria_1;in_band;b1-04-031;5242880;13.796718;1e-06;13.796717;Sucesso
+bateria_1;in_band;b1-04-032;5242880;14.309787;1e-06;14.309787;Sucesso
+bateria_1;in_band;b1-04-033;5242880;12.815039;1e-06;12.815039;Sucesso
+bateria_1;in_band;b1-04-034;5242880;13.288824;1e-06;13.288823;Sucesso
+bateria_1;in_band;b1-04-035;5242880;14.315425;1e-06;14.315424;Sucesso
+bateria_1;in_band;b1-04-036;5242880;12.758625;1e-06;12.758624;Sucesso
+bateria_1;in_band;b1-04-037;5242880;12.750148;1e-06;12.750147;Sucesso
+bateria_1;in_band;b1-04-038;5242880;13.760697;1e-06;13.760696;Sucesso
+bateria_1;in_band;b1-04-039;5242880;12.709595;1e-06;12.709595;Sucesso
+bateria_1;in_band;b1-04-040;5242880;13.20612;1e-06;13.206119;Sucesso
+bateria_1;in_band;b1-04-041;5242880;12.210798;1e-06;12.210798;Sucesso
+bateria_1;in_band;b1-04-042;5242880;17.254742;0.0;17.254741;Sucesso
+bateria_1;in_band;b1-04-043;5242880;13.279505;1e-06;13.279505;Sucesso
+bateria_1;in_band;b1-04-044;5242880;13.229039;0.0;13.229039;Sucesso
+bateria_1;in_band;b1-04-045;5242880;13.280288;1e-06;13.280288;Sucesso
+bateria_1;in_band;b1-04-046;5242880;12.760011;1e-06;12.760011;Sucesso
+bateria_1;in_band;b1-04-047;5242880;12.778316;1e-06;12.778315;Sucesso
+bateria_1;in_band;b1-04-048;5242880;12.753527;1e-06;12.753526;Sucesso
+bateria_1;in_band;b1-04-049;5242880;11.748429;1e-06;11.748428;Sucesso
+bateria_1;in_band;b1-04-050;5242880;13.268632;1e-06;13.268632;Sucesso
+bateria_1;in_band;b1-04-051;5242880;12.212742;1e-06;12.212741;Sucesso
+bateria_1;in_band;b1-04-052;5242880;14.769504;0.0;14.769504;Sucesso
+bateria_1;in_band;b1-04-053;5242880;12.701679;1e-06;12.701678;Sucesso
+bateria_1;in_band;b1-04-054;5242880;12.673937;1e-06;12.673936;Sucesso
+bateria_1;in_band;b1-04-055;5242880;12.194736;1e-06;12.194735;Sucesso
+bateria_1;in_band;b1-04-056;5242880;13.749219;1e-06;13.749218;Sucesso
+bateria_1;in_band;b1-04-057;5242880;12.712544;1e-06;12.712544;Sucesso
+bateria_1;in_band;b1-04-058;5242880;13.266303;1e-06;13.266302;Sucesso
+bateria_1;in_band;b1-04-059;5242880;12.731467;0.0;12.731467;Sucesso
+bateria_1;in_band;b1-04-060;5242880;14.261524;1e-06;14.261523;Sucesso
+bateria_1;in_band;b1-04-061;5242880;13.741206;1e-06;13.741205;Sucesso
+bateria_1;in_band;b1-04-062;5242880;17.351279;0.0;17.351279;Sucesso
+bateria_1;in_band;b1-04-063;5242880;12.756864;1e-06;12.756863;Sucesso
+bateria_1;in_band;b1-04-064;5242880;13.303516;1e-06;13.303515;Sucesso
+bateria_1;in_band;b1-04-065;5242880;11.735386;1e-06;11.735386;Sucesso
+bateria_1;in_band;b1-04-066;5242880;12.193963;1e-06;12.193962;Sucesso
+bateria_1;in_band;b1-04-067;5242880;13.248552;1e-06;13.248551;Sucesso
+bateria_1;in_band;b1-04-068;5242880;13.243321;1e-06;13.243321;Sucesso
+bateria_1;in_band;b1-04-069;5242880;14.831194;1e-06;14.831194;Sucesso
+bateria_1;in_band;b1-04-070;5242880;12.202715;1e-06;12.202714;Sucesso
+bateria_1;in_band;b1-04-071;5242880;12.69685;1e-06;12.696849;Sucesso
+bateria_1;in_band;b1-04-072;5242880;12.74428;1e-06;12.744279;Sucesso
+bateria_1;in_band;b1-04-073;5242880;12.743596;1e-06;12.743596;Sucesso
+bateria_1;in_band;b1-04-074;5242880;14.31937;1e-06;14.319369;Sucesso
+bateria_1;in_band;b1-04-075;5242880;13.262464;1e-06;13.262463;Sucesso
+bateria_1;in_band;b1-04-076;5242880;12.775535;1e-06;12.775534;Sucesso
+bateria_1;in_band;b1-04-077;5242880;17.864949;0.0;17.864949;Sucesso
+bateria_1;in_band;b1-04-078;5242880;11.730688;1e-06;11.730687;Sucesso
+bateria_1;in_band;b1-04-079;5242880;13.281733;1e-06;13.281732;Sucesso
+bateria_1;in_band;b1-04-080;5242880;12.75187;1e-06;12.75187;Sucesso
+bateria_1;in_band;b1-04-081;5242880;13.283826;1e-06;13.283825;Sucesso
+bateria_1;in_band;b1-04-082;5242880;12.759268;1e-06;12.759268;Sucesso
+bateria_1;in_band;b1-04-083;5242880;17.366828;1e-06;17.366827;Sucesso
+bateria_1;in_band;b1-04-084;5242880;13.248609;1e-06;13.248608;Sucesso
+bateria_1;in_band;b1-04-085;5242880;12.249461;1e-06;12.24946;Sucesso
+bateria_1;in_band;b1-04-086;5242880;11.225573;1e-06;11.225572;Sucesso
+bateria_1;in_band;b1-04-087;5242880;16.868425;0.0;16.868425;Sucesso
+bateria_1;in_band;b1-04-088;5242880;12.228494;1e-06;12.228494;Sucesso
+bateria_1;in_band;b1-04-089;5242880;12.25127;0.0;12.25127;Sucesso
+bateria_1;in_band;b1-04-090;5242880;13.774489;1e-06;13.774488;Sucesso
+bateria_1;in_band;b1-04-091;5242880;13.262076;1e-06;13.262075;Sucesso
+bateria_1;in_band;b1-04-092;5242880;13.75653;1e-06;13.756529;Sucesso
+bateria_1;in_band;b1-04-093;5242880;12.77813;1e-06;12.778129;Sucesso
+bateria_1;in_band;b1-04-094;5242880;12.761265;1e-06;12.761265;Sucesso
+bateria_1;in_band;b1-04-095;5242880;12.759486;0.0;12.759486;Sucesso
+bateria_1;in_band;b1-04-096;5242880;13.763924;1e-06;13.763924;Sucesso
+bateria_1;in_band;b1-04-097;5242880;17.86838;0.0;17.86838;Sucesso
+bateria_1;in_band;b1-04-098;5242880;12.771333;1e-06;12.771333;Sucesso
+bateria_1;in_band;b1-04-099;5242880;13.267242;1e-06;13.267241;Sucesso
+bateria_1;in_band;b1-04-100;5242880;12.292472;1e-06;12.292472;Sucesso
+bateria_1;in_band;b1-05-001;10485760;1.443067;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 4a634259-2d76-4f83-a627-7878c4c66884 in task group 99942f49-bc36-4e6e-86f0-153f7642905d is too large: 14165904 bytes > 10485760 bytes (875 bytes due to serialized function code, 14165029 bytes due to arguments)')
+bateria_1;in_band;b1-05-002;10485760;1.7e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-003;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-004;10485760;1.5e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-005;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-006;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-007;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-008;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-009;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-010;10485760;9e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-011;10485760;1.7e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-012;10485760;7e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-013;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-014;10485760;1.4e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-015;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-016;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-017;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-018;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-019;10485760;7e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-020;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-021;10485760;8e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-022;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-023;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-024;10485760;9e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-025;10485760;1.6e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-026;10485760;8e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-027;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-028;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-029;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-030;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-031;10485760;2.8e-05;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-032;10485760;6e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-033;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-034;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-035;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-036;10485760;7e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-037;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-038;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-039;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-040;10485760;7e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-041;10485760;9e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-042;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-043;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-044;10485760;6e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-045;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-046;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-047;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-048;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-049;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-050;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-051;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-052;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-053;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-054;10485760;6e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-055;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-056;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-057;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-058;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-059;10485760;6e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-060;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-061;10485760;5e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-062;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-063;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-064;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-065;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-066;10485760;8e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-067;10485760;4e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-068;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-069;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-070;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-071;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-072;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-073;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-074;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-075;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-076;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-077;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-078;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-079;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-080;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-081;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-082;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-083;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-084;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-085;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-086;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-087;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-088;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-089;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-090;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-091;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-092;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-093;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-094;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-095;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-096;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-097;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-098;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-099;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"
+bateria_1;in_band;b1-05-100;10485760;3e-06;;;"Falha: Executor<ep_id:fb05f79c-a4cd-4f6a-ac66-fd6188468024; tg_id:99942f49-bc36-4e6e-86f0-153f7642905d; bs:128> is shutdown; no new functions may be executed"

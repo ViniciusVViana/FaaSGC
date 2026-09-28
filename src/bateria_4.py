@@ -20,6 +20,8 @@ except ImportError:
 
 def disk_worker(url: str) -> dict[str, Any]:
     """Baixa a URL para um arquivo temporário e remove o arquivo ao terminar."""
+    import time
+
     start_worker = time.perf_counter()
     temporary_path: str | None = None
     try:
@@ -53,6 +55,8 @@ def disk_worker(url: str) -> dict[str, Any]:
 
 def ram_worker(url: str) -> dict[str, Any]:
     """Baixa a URL diretamente para a memória volátil do worker."""
+    import time
+    
     start_worker = time.perf_counter()
     try:
         with urllib.request.urlopen(url) as response:
