@@ -9,6 +9,7 @@ from typing import Any, Mapping, Sequence
 from urllib.parse import urljoin
 
 import yaml
+from dotenv import load_dotenv
 
 
 REQUIRED_RESULT_COLUMNS = [
@@ -29,6 +30,7 @@ def load_config(config_path: str | Path = "config.yaml") -> dict[str, Any]:
     if not path.is_file():
         raise FileNotFoundError(f"Arquivo de configuração não encontrado: {path}")
 
+    load_dotenv()
     with path.open("r", encoding="utf-8") as config_file:
         config = yaml.safe_load(config_file)
 

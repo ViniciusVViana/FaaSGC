@@ -32,7 +32,8 @@ def in_band_worker(payload: bytes) -> dict[str, Any]:
 def out_of_band_worker(url: str) -> dict[str, Any]:
     """Baixa a URL no endpoint e mede o tempo total do worker."""
     import time
-    
+    import urllib.request
+
     start_worker = time.perf_counter()
     with urllib.request.urlopen(url) as response:
         payload = response.read()
