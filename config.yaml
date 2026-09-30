@@ -18,15 +18,19 @@ github:
     - "/data/arquivos_teste/10MB/arquivo_001.txt"
 
 repetitions:
-  bateria_1: 100
-  bateria_2: 10
-  bateria_3: 10
-  bateria_4: 100
+  bateria_1: 50
+  bateria_2: 50
+  bateria_3: 50
+  bateria_4: 50
 
 concurrency_levels:
   - 10
   - 100
-  - 500
+  - 200
+
+# Limite conservador para payloads in-band da Bateria 3.
+# O Globus Compute limita a tarefa serializada a 10 MiB.
+bateria_3_max_in_band_payload_bytes: 5242880
 
 # Parâmetros usados pela Bateria 2 durante o acompanhamento das tarefas.
 polling:

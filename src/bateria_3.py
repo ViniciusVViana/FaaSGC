@@ -85,13 +85,32 @@ def _submit_and_collect_burst(
 ) -> list[dict[str, Any]]:
     submitted_at = time.perf_counter()
     futures: list[tuple[str, int, Any, Any]] = []
+    results: list[dict[str, Any]] = []
 
     for task_id, argument, expected_size in inputs:
         task_submitted_at = time.perf_counter()
-        future = executor.submit(worker, argument)
+        try:
+            future = executor.submit(worker, argument)
+        except Exception as error:
+            returned_at = time.perf_counter()
+            results.append(
+                {
+                    "bateria": "bateria_3",
+                    "cenario": scenario,
+                    "id_tarefa": task_id,
+                    "tamanho_bytes": expected_size,
+                    "rtt_total_segundos": round(
+                        returned_at - task_submitted_at, 6
+                    ),
+                    "tempo_worker_segundos": "",
+                    "overhead_rede_nuvem_segundos": "",
+                    "status": f"Falha na submissão: {error}",
+                }
+            )
+            print(f"[{task_id}] Falha na submissão: {error}")
+            break
         futures.append((task_id, expected_size, future, task_submitted_at))
 
-    results: list[dict[str, Any]] = []
     for task_id, expected_size, future, task_submitted_at in futures:
         try:
             worker_result = future.result()
@@ -156,25 +175,50 @@ def run_bateria(config_path: str | Path = "config.yaml") -> Path:
         raise ValueError("'concurrency_levels' deve conter inteiros positivos.")
 
     payload_sizes = config["payload_sizes_bytes"]
+    max_in_band_payload = config.get(
+        "bateria_3_max_in_band_payload_bytes",
+        5 * 1024 * 1024,
+    )
+    if (
+        not isinstance(max_in_band_payload, int)
+        or max_in_band_payload <= 0
+    ):
+        raise ValueError(
+            "'bateria_3_max_in_band_payload_bytes' deve ser um inteiro positivo."
+        )
+    in_band_sizes = [
+        size for size in payload_sizes if size <= max_in_band_payload
+    ]
+    skipped_sizes = [
+        size for size in payload_sizes if size > max_in_band_payload
+    ]
+    if skipped_sizes:
+        print(
+            "Aviso: payloads in-band acima de "
+            f"{max_in_band_payload} bytes serão ignorados na Bateria 3: "
+            f"{skipped_sizes}"
+        )
+
     urls = build_github_urls(config)
     results: list[dict[str, Any]] = []
     client = Client()
 
     print("Iniciando Bateria 3: Concorrência e Saturação")
-    with Executor(endpoint_id=endpoint_id, client=client) as executor:
-        for scenario, worker in (
-            ("in_band", in_band_worker),
-            ("out_of_band", out_of_band_worker),
-        ):
-            for burst_size in concurrency_levels:
-                for repetition in range(1, repetitions + 1):
-                    inputs = _build_burst_inputs(
-                        scenario,
-                        burst_size,
-                        repetition,
-                        payload_sizes,
-                        urls,
-                    )
+    for scenario, worker in (
+        ("in_band", in_band_worker),
+        ("out_of_band", out_of_band_worker),
+    ):
+        scenario_sizes = in_band_sizes if scenario == "in_band" else payload_sizes
+        for burst_size in concurrency_levels:
+            for repetition in range(1, repetitions + 1):
+                inputs = _build_burst_inputs(
+                    scenario,
+                    burst_size,
+                    repetition,
+                    scenario_sizes,
+                    urls,
+                )
+                with Executor(endpoint_id=endpoint_id, client=client) as executor:
                     results.extend(
                         _submit_and_collect_burst(
                             executor,

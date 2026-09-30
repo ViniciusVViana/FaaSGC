@@ -1,0 +1,501 @@
+﻿bateria;cenario;id_tarefa;tamanho_bytes;rtt_total_segundos;tempo_worker_segundos;overhead_rede_nuvem_segundos;status;tempo_registro_nuvem
+bateria_2;in_band;b2-in-band-01-001;10240;10.008241;0.0;10.008241;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-002;10240;2.668579;0.0;2.668579;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-003;10240;3.192478;0.0;3.192478;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-004;10240;2.872929;0.0;2.872929;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-005;10240;2.574593;0.0;2.574592;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-006;10240;2.935228;0.0;2.935227;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-007;10240;2.547774;0.0;2.547774;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-008;10240;2.61611;0.0;2.616109;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-009;10240;2.57691;1e-06;2.576909;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-010;10240;3.059941;0.0;3.059941;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-011;10240;2.827615;1e-06;2.827615;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-012;10240;2.942991;1e-06;2.94299;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-013;10240;2.819101;0.0;2.8191;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-014;10240;2.987147;1e-06;2.987147;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-015;10240;2.567633;0.0;2.567633;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-016;10240;2.551197;1e-06;2.551196;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-017;10240;2.557832;0.0;2.557832;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-018;10240;2.546436;0.0;2.546435;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-019;10240;2.555162;0.0;2.555162;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-020;10240;2.653814;0.0;2.653813;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-021;10240;3.331192;1e-06;3.331192;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-022;10240;2.799821;1e-06;2.79982;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-023;10240;2.86543;0.0;2.86543;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-024;10240;2.655399;1e-06;2.655398;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-025;10240;2.6183;1e-06;2.618299;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-026;10240;2.67765;1e-06;2.677649;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-027;10240;2.831377;0.0;2.831377;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-028;10240;2.744809;0.0;2.744809;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-029;10240;2.55429;1e-06;2.554289;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-030;10240;2.549586;1e-06;2.549586;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-031;10240;2.645485;0.0;2.645484;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-032;10240;3.002017;0.0;3.002017;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-033;10240;2.599439;0.0;2.599439;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-034;10240;2.773267;0.0;2.773267;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-035;10240;2.795096;0.0;2.795095;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-036;10240;3.276938;1e-06;3.276938;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-037;10240;3.021505;1e-06;3.021504;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-038;10240;2.67221;0.0;2.672209;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-039;10240;2.636387;0.0;2.636387;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-040;10240;2.577604;1e-06;2.577603;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-041;10240;2.559908;0.0;2.559908;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-042;10240;2.552391;0.0;2.55239;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-043;10240;3.05531;0.0;3.05531;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-044;10240;2.702808;0.0;2.702807;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-045;10240;3.150276;0.0;3.150276;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-046;10240;2.582482;0.0;2.582482;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-047;10240;7.227237;0.0;7.227237;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-048;10240;2.563669;0.0;2.563669;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-049;10240;2.721767;1e-06;2.721767;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-01-050;10240;2.564532;0.0;2.564531;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-001;102400;2.712949;1e-06;2.712948;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-002;102400;2.565739;0.0;2.565739;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-003;102400;2.935415;1e-06;2.935415;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-004;102400;2.563904;0.0;2.563903;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-005;102400;2.737088;0.0;2.737088;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-006;102400;2.826216;0.0;2.826215;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-007;102400;2.574133;0.0;2.574133;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-008;102400;2.717743;0.0;2.717742;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-009;102400;2.808746;0.0;2.808745;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-010;102400;2.548052;0.0;2.548052;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-011;102400;2.565549;0.0;2.565549;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-012;102400;2.736397;0.0;2.736397;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-013;102400;2.561731;0.0;2.561731;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-014;102400;2.563407;0.0;2.563407;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-015;102400;3.050916;0.0;3.050915;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-016;102400;3.032109;0.0;3.032109;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-017;102400;2.660001;0.0;2.66;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-018;102400;2.608854;0.0;2.608853;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-019;102400;2.577227;1e-06;2.577226;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-020;102400;2.561838;0.0;2.561838;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-021;102400;2.626449;0.0;2.626449;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-022;102400;2.732135;0.0;2.732135;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-023;102400;2.559741;0.0;2.55974;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-024;102400;3.012684;0.0;3.012683;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-025;102400;2.820273;0.0;2.820272;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-026;102400;3.259875;0.0;3.259875;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-027;102400;2.724203;0.0;2.724202;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-028;102400;2.575406;0.0;2.575405;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-029;102400;2.659723;0.0;2.659723;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-030;102400;2.562745;0.0;2.562744;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-031;102400;2.57021;0.0;2.57021;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-032;102400;2.552717;0.0;2.552716;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-033;102400;2.582115;0.0;2.582115;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-034;102400;2.792736;0.0;2.792736;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-035;102400;2.911174;1e-06;2.911174;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-036;102400;2.793279;0.0;2.793279;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-037;102400;2.568196;1e-06;2.568196;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-038;102400;3.072201;0.0;3.072201;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-039;102400;2.707423;0.0;2.707423;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-040;102400;2.583626;0.0;2.583625;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-041;102400;2.604734;0.0;2.604733;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-042;102400;2.551555;0.0;2.551555;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-043;102400;7.003921;0.0;7.003921;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-044;102400;2.838813;0.0;2.838812;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-045;102400;2.816724;0.0;2.816723;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-046;102400;2.766615;0.0;2.766614;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-047;102400;2.555078;1e-06;2.555077;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-048;102400;3.030048;0.0;3.030048;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-049;102400;2.550686;0.0;2.550686;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-02-050;102400;2.57098;0.0;2.57098;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-001;1048576;7.551108;1e-06;7.551107;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-002;1048576;7.373206;0.0;7.373206;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-003;1048576;7.221044;0.0;7.221043;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-004;1048576;7.70056;0.0;7.70056;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-005;1048576;7.72508;0.0;7.72508;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-006;1048576;7.226738;1e-06;7.226737;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-007;1048576;5.170029;0.0;5.170028;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-008;1048576;7.521733;0.0;7.521733;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-009;1048576;7.655686;0.0;7.655686;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-010;1048576;8.418599;1e-06;8.418599;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-011;1048576;7.167414;0.0;7.167414;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-012;1048576;8.436429;0.0;8.436429;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-013;1048576;5.802609;0.0;5.802608;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-014;1048576;7.311926;0.0;7.311925;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-015;1048576;9.64083;0.0;9.64083;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-016;1048576;7.07628;0.0;7.07628;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-017;1048576;6.69735;0.0;6.69735;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-018;1048576;6.057822;0.0;6.057822;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-019;1048576;7.421443;0.0;7.421443;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-020;1048576;7.627081;1e-06;7.62708;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-021;1048576;5.359432;1e-06;5.359431;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-022;1048576;5.731843;1e-06;5.731843;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-023;1048576;7.584835;0.0;7.584835;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-024;1048576;5.453276;1e-06;5.453275;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-025;1048576;5.0573;0.0;5.0573;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-026;1048576;5.058513;1e-06;5.058512;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-027;1048576;5.068903;1e-06;5.068902;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-028;1048576;7.895808;1e-06;7.895807;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-029;1048576;7.192176;0.0;7.192176;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-030;1048576;7.452656;1e-06;7.452656;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-031;1048576;5.35033;0.0;5.35033;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-032;1048576;7.496751;1e-06;7.49675;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-033;1048576;5.596833;1e-06;5.596833;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-034;1048576;7.38399;0.0;7.383989;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-035;1048576;11.615174;0.0;11.615174;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-036;1048576;7.386915;0.0;7.386915;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-037;1048576;5.80636;0.0;5.806359;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-038;1048576;7.186805;1e-06;7.186804;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-039;1048576;4.983945;1e-06;4.983945;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-040;1048576;5.22794;1e-06;5.227939;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-041;1048576;5.385078;0.0;5.385078;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-042;1048576;5.05836;1e-06;5.058359;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-043;1048576;5.661393;1e-06;5.661393;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-044;1048576;5.330033;0.0;5.330032;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-045;1048576;5.063323;0.0;5.063323;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-046;1048576;7.165123;1e-06;7.165122;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-047;1048576;5.135662;0.0;5.135661;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-048;1048576;7.354737;0.0;7.354736;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-049;1048576;7.580774;1e-06;7.580774;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-03-050;1048576;7.493508;1e-06;7.493508;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-001;5242880;15.112489;1e-06;15.112488;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-002;5242880;24.471301;0.0;24.471301;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-003;5242880;14.910442;1e-06;14.910441;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-004;5242880;15.349701;1e-06;15.349701;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-005;5242880;15.371886;1e-06;15.371886;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-006;5242880;13.490911;1e-06;13.490911;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-007;5242880;17.1583;1e-06;17.158299;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-008;5242880;12.889458;1e-06;12.889458;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-009;5242880;14.790997;1e-06;14.790996;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-010;5242880;15.416154;1e-06;15.416154;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-011;5242880;19.427846;0.0;19.427846;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-012;5242880;12.65075;1e-06;12.650749;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-013;5242880;15.261957;1e-06;15.261956;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-014;5242880;14.850764;1e-06;14.850763;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-015;5242880;15.146778;1e-06;15.146778;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-016;5242880;12.414415;1e-06;12.414414;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-017;5242880;14.597094;1e-06;14.597093;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-018;5242880;13.348223;1e-06;13.348222;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-019;5242880;15.222058;1e-06;15.222058;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-020;5242880;17.552102;0.0;17.552101;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-021;5242880;15.355528;0.0;15.355528;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-022;5242880;14.873673;1e-06;14.873672;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-023;5242880;15.498108;1e-06;15.498108;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-024;5242880;14.69597;1e-06;14.69597;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-025;5242880;15.031094;1e-06;15.031093;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-026;5242880;15.464621;1e-06;15.46462;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-027;5242880;15.018092;1e-06;15.018091;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-028;5242880;15.426397;1e-06;15.426396;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-029;5242880;17.031132;0.0;17.031132;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-030;5242880;15.121505;1e-06;15.121504;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-031;5242880;15.044378;1e-06;15.044377;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-032;5242880;13.13779;1e-06;13.137789;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-033;5242880;12.73004;1e-06;12.730039;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-034;5242880;12.932368;1e-06;12.932368;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-035;5242880;13.132661;0.0;13.132661;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-036;5242880;17.09201;1e-06;17.092009;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-037;5242880;14.993429;1e-06;14.993429;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-038;5242880;17.484695;0.0;17.484695;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-039;5242880;17.508583;1e-06;17.508582;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-040;5242880;13.103081;1e-06;13.10308;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-041;5242880;13.019744;1e-06;13.019743;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-042;5242880;15.196345;1e-06;15.196344;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-043;5242880;12.679073;1e-06;12.679072;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-044;5242880;15.159902;1e-06;15.159901;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-045;5242880;14.910697;1e-06;14.910697;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-046;5242880;12.453397;1e-06;12.453397;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-047;5242880;17.73265;1e-06;17.732649;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-048;5242880;12.551365;0.0;12.551365;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-049;5242880;13.175451;1e-06;13.17545;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-04-050;5242880;14.941985;1e-06;14.941984;Sucesso;1.232737
+bateria_2;in_band;b2-in-band-05-001;10485760;2.415152;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 752aa6bc-428a-4684-bc01-df8db07d9bc7 in task group e0372613-9f2e-44bd-9153-a8e4157f3df9 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-002;10485760;3.205852;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 375b7537-83ef-42da-a6f8-52072b0b4bd1 in task group 49412677-ecad-4fa6-ac47-95026be35080 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-003;10485760;2.64837;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 4e1295a8-8bc7-4cb5-8eed-139a9b4c5a5e in task group 6c9848de-cdc8-4c68-877b-c04d936148cc is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-004;10485760;2.633996;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 2c5322ab-2135-41c0-a09a-06ec0a45bbe9 in task group e236fe51-66bd-46d8-a54e-beaf1534a87f is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-005;10485760;2.318898;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task a4a3550d-4ba7-4da1-9e95-2835886b3d80 in task group dc45652c-5fcd-4cae-927a-67d5057c7834 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-006;10485760;2.293021;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task c5271a7b-3083-4bfb-bdbc-18bc5095610f in task group 6be8ace6-1502-4d8b-bef9-5bd643ed081f is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-007;10485760;2.408058;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task fb503884-4cc7-4bcf-92bf-df98bb98abe9 in task group c52bc0cc-d130-4436-8d78-6e6dd937e998 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-008;10485760;2.193379;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task cbcd3d19-62d5-4dfe-9770-1ea2ff4f086c in task group 1ae954f4-8ec2-4677-baaf-4515d3f3951f is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-009;10485760;2.205328;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 1666cf40-a8ee-4b8c-995b-1df3aac9e910 in task group 9b521a89-c3a4-40fc-b176-30f3d3eab393 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-010;10485760;2.481189;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 28eb9d38-cfe8-4bd8-b7bc-4431dee0253f in task group 12b6dbfb-086d-4467-8fe8-3e43967967e5 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-011;10485760;2.179316;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task ca5d593c-5f56-423a-82e7-9d3749ee97f7 in task group 3a126778-823e-45b1-a2bd-abe16224f482 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-012;10485760;1.998039;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 1e338f70-509a-49f7-a484-8e4075496c7e in task group 8cce6557-0b77-4c6f-832e-16c8d78e002d is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-013;10485760;2.651698;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 0a8ea3c6-f6d7-41c7-b160-eae774e58717 in task group 13b0ca4e-0c87-47f5-ae8b-8be95a7c3590 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-014;10485760;2.394396;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task e9dc69ff-5c0d-476b-9bbb-153de7df616b in task group 8249dc67-c0c2-456f-b2c2-5a238f729051 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-015;10485760;3.097923;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 22776f78-456c-4f24-ac31-6699e3bb1231 in task group fd8d5458-bef5-497a-a45e-6372296eee3f is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-016;10485760;2.591427;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 8ba17599-9d7b-4878-afff-206b170740b1 in task group f8d51095-fff8-4edf-87bb-7515bf1aef38 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-017;10485760;2.617977;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task f914a9d6-ad5e-48a8-88a2-4fcdb100517d in task group 1667d874-943c-4e11-8480-07eea0cbf5e6 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-018;10485760;2.281217;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 85c8c26a-d206-4813-a640-b7e561c62ac3 in task group b9cf64b7-fe7b-4148-b0a0-25869c361def is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-019;10485760;2.378491;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task cf1313ac-1a8d-46d3-b8df-27404759b1f0 in task group 2df6b6d7-daae-4956-ac77-cf1efe4a9421 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-020;10485760;2.640802;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task ed75af48-76c6-4008-90e7-1fb9913d99e2 in task group a7e50e34-2881-463f-831a-6e7f5c46370f is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-021;10485760;2.736194;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task f757cc4d-eed0-4a96-81dc-cd15fc4b3a0f in task group caefa000-e35a-4c6e-a6fb-eb1fa1df178c is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-022;10485760;2.46384;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 69804d74-7690-4575-8e69-17fd41a2c30a in task group d3659fa1-47e3-493d-9fca-5e90f612f694 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-023;10485760;2.398769;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 7728535a-4171-406b-b4c9-26ba9784ad61 in task group bcb099a5-917e-4548-b50d-398326d65a13 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-024;10485760;2.504982;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task f1fe9cdc-cba3-4667-b636-933c247b6ac4 in task group acd73c0f-47bb-4462-8528-8b180a1535ff is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-025;10485760;2.584501;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task c56ffe86-d772-4ac5-a1d5-9c06338c7cb1 in task group 5d658e49-2301-4448-814c-18bf7a487995 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-026;10485760;2.301646;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task bf67fe8c-a4a8-473b-8dc7-9176ce4fe184 in task group 369c29d3-2b8c-40f3-bf1d-d4458c728441 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-027;10485760;2.669173;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task fbd8fd24-0ab2-4854-b570-6eab297c4841 in task group 5c96c9ac-08af-410a-afc0-f57dca71f348 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-028;10485760;2.523659;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 50d607b2-8281-40b7-95cf-65ce836c4a3c in task group 3bb5f0c7-a06c-46a8-ab5e-8bc7e59aa6c3 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-029;10485760;2.314536;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task a41ba1f7-9f0f-4ef1-ac05-6c879927e0ed in task group 112a534c-6f0e-47cd-af67-c3c6625180ce is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-030;10485760;2.286186;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task cdc3f01e-8c65-4aa4-a934-c4bdb68e9a47 in task group df507231-f1fb-4e5d-ae97-7831a27656b4 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-031;10485760;2.644797;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 497a61aa-04a6-4950-89e4-4ed0d34362dc in task group 28aa53bc-c6f5-47f1-8697-d5e546c46eca is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-032;10485760;2.4589;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task d8999fd0-cc10-45cd-b36a-ad1ed4d7fcc1 in task group 59d4f130-3942-432e-8d39-71a5e8293ed2 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-033;10485760;2.498776;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 1f1724a3-29a0-4a39-82fe-4b8638cf98a1 in task group 82926bf7-0b23-47de-9c5c-7f3e4e5b1200 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-034;10485760;2.477552;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task ab1e413d-bf25-4eaf-ba4e-70fe17208df4 in task group e5566350-df35-4098-b02b-0871302983c1 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-035;10485760;2.406436;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 4823d8d1-2d0b-4bef-ad67-219b1fbdee54 in task group 017cfc15-d9bb-4e22-b905-771edbc17b2e is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-036;10485760;2.126073;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task a7133d8b-de87-4584-8581-51cbbef7b13c in task group 79b52b87-4181-40bb-b1b4-acaa495f3856 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-037;10485760;2.195665;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 57b4edb5-3afb-4375-a216-a0f830625169 in task group 495f9c45-8707-4fbf-8cd8-65e6d1ac5f07 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-038;10485760;2.011743;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task c7cf235c-b3f4-487f-aebd-e98ff3e3ef58 in task group e5b93da1-7321-4443-a5e6-464b7ac21d7b is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-039;10485760;2.041876;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task ab091af9-31aa-4984-acb9-b7bb12571ce0 in task group 95a02614-558e-426f-aaae-0dc47291ae33 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-040;10485760;2.550062;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 407b004e-7a7e-4bec-b2e2-9b917e323fea in task group fa00cbe6-d793-4114-a9a2-8a679d7d40a7 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-041;10485760;2.588569;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 995cd1d2-12b5-4d56-be88-c14bb46e8c83 in task group 0b966b34-1e9a-4321-b8f2-06b8fdc1a288 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-042;10485760;2.729488;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 39088566-7a8a-4732-be20-c6604f2d532e in task group 2ad52f0c-597f-4475-9d9d-872ad53d7a59 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-043;10485760;2.381535;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task d535446f-6695-4463-a6e0-b78a9934a5f2 in task group 0f383f85-b678-483b-a080-a1e06dacbcf1 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-044;10485760;2.377812;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 3f8c2b30-7e15-4401-8e30-9b3aeb6c030a in task group 326002b2-093b-4649-ae4b-a099250b5cb7 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-045;10485760;2.321888;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 1784ce58-ef39-4695-a69a-33a6ef2ec380 in task group a49f898a-3797-440e-b7c8-b788650fb57a is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-046;10485760;2.40326;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 72a44005-ebc1-4c93-b71c-ebcd356021ad in task group a8e7f9b7-0237-43de-87be-36ada5d03e1a is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-047;10485760;2.283394;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task a5eec65e-29d1-46dc-8209-a62d81ca136f in task group 1f7f51a1-cbc1-4c05-b22f-af9639b5a15b is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-048;10485760;2.188157;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task ee13c1e2-f027-4495-a880-0ea9dea5d55a in task group b0ddb626-9515-4c94-8f68-caead913be52 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-049;10485760;1.912354;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 3929c3e3-7691-42a4-acad-b876ace16bfd in task group 1758b503-bbb9-42c4-9db4-84a501b4507d is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;in_band;b2-in-band-05-050;10485760;2.509251;;;Falha: ('POST', 'https://compute.api.globus.org/v3/endpoints/fb05f79c-a4cd-4f6a-ac66-fd6188468024/submit', 'Bearer', 413, 'TASK_PAYLOAD_TOO_LARGE', 'Payload for task 4be7f982-8b7d-4d56-af5a-a0e97888f0f2 in task group 652c28a1-b98a-43db-b2b0-a5b075cd0cd6 is too large: 14165908 bytes > 10485760 bytes (879 bytes due to serialized function code, 14165029 bytes due to arguments)');1.232737
+bateria_2;out_of_band;b2-out-of-band-01-001;10240;5.198095;0.421791;4.776303;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-002;10240;3.178671;0.029721;3.14895;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-003;10240;3.028605;0.030696;2.997909;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-004;10240;2.534386;0.030583;2.503803;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-005;10240;2.571835;0.030928;2.540907;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-006;10240;2.896838;0.030389;2.866448;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-007;10240;2.7205;0.030357;2.690143;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-008;10240;3.082228;0.029817;3.052411;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-009;10240;2.79086;0.028944;2.761915;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-010;10240;2.525557;0.0313;2.494257;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-011;10240;2.798937;0.030014;2.768923;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-012;10240;2.728938;0.030066;2.698872;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-013;10240;2.837955;0.031529;2.806426;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-014;10240;2.873037;0.029883;2.843153;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-015;10240;2.605611;0.030413;2.575198;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-016;10240;2.547246;0.029228;2.518019;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-017;10240;2.700477;0.028886;2.671591;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-018;10240;2.53361;0.032293;2.501317;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-019;10240;2.546768;0.031225;2.515543;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-020;10240;2.542191;0.029734;2.512456;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-021;10240;2.548164;0.030192;2.517972;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-022;10240;2.607388;0.031448;2.575939;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-023;10240;2.529114;0.030042;2.499072;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-024;10240;2.744648;0.030061;2.714588;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-025;10240;2.569196;0.030451;2.538746;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-026;10240;3.254833;0.028999;3.225835;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-027;10240;2.842844;0.031147;2.811697;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-028;10240;2.540306;0.031073;2.509233;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-029;10240;2.64032;0.030137;2.610182;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-030;10240;2.704031;0.029632;2.674399;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-031;10240;2.527136;0.03002;2.497117;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-032;10240;2.665461;1.070888;1.594573;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-033;10240;2.791235;0.030107;2.761128;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-034;10240;2.786504;0.03016;2.756345;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-035;10240;2.815328;0.029612;2.785716;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-036;10240;2.527563;0.029466;2.498097;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-037;10240;3.13273;0.030054;3.102676;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-038;10240;2.542007;0.029575;2.512432;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-039;10240;2.599767;0.03027;2.569497;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-040;10240;2.5405;0.029934;2.510566;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-041;10240;2.52826;0.029865;2.498396;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-042;10240;2.535964;0.030249;2.505715;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-043;10240;2.79006;0.029862;2.760198;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-044;10240;3.001956;0.032483;2.969473;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-045;10240;2.696418;0.03019;2.666228;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-046;10240;5.53792;0.029155;5.508764;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-047;10240;3.523502;0.029069;3.494433;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-048;10240;3.185135;0.02968;3.155455;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-049;10240;2.626331;0.030263;2.596069;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-01-050;10240;2.801525;0.030002;2.771523;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-001;102400;2.817013;0.269738;2.547275;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-002;102400;2.702452;0.051297;2.651155;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-003;102400;2.981692;0.057815;2.923878;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-004;102400;2.537322;0.051161;2.486161;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-005;102400;2.550004;0.049256;2.500747;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-006;102400;2.555015;0.050085;2.504931;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-007;102400;2.530377;0.050355;2.480022;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-008;102400;2.610291;0.050381;2.559909;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-009;102400;2.757745;0.051176;2.70657;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-010;102400;2.947536;0.049918;2.897618;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-011;102400;2.570315;0.05853;2.511785;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-012;102400;2.525803;0.052045;2.473758;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-013;102400;2.713797;0.058251;2.655546;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-014;102400;2.544808;0.052395;2.492412;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-015;102400;2.731075;0.051187;2.679888;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-016;102400;2.607963;0.05946;2.548504;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-017;102400;2.741829;0.049795;2.692035;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-018;102400;2.736141;0.058531;2.67761;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-019;102400;2.545765;0.04935;2.496415;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-020;102400;2.522452;0.049476;2.472976;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-021;102400;2.591586;0.042526;2.549059;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-022;102400;2.986434;0.050634;2.935799;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-023;102400;2.605466;0.056447;2.549019;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-024;102400;2.785666;0.051537;2.734129;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-025;102400;2.556153;0.050288;2.505864;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-026;102400;2.659694;0.056523;2.603171;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-027;102400;2.528059;0.049561;2.478498;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-028;102400;7.136827;0.06044;7.076386;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-029;102400;2.84809;0.059608;2.788482;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-030;102400;2.607566;0.043343;2.564223;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-031;102400;2.711954;0.048771;2.663183;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-032;102400;2.938341;0.049349;2.888992;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-033;102400;2.54539;0.051176;2.494215;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-034;102400;2.758781;0.05003;2.70875;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-035;102400;2.711318;0.050541;2.660777;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-036;102400;2.52097;0.050531;2.470439;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-037;102400;2.578664;0.059764;2.5189;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-038;102400;2.531115;0.04341;2.487705;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-039;102400;2.521861;0.050004;2.471857;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-040;102400;2.773371;0.058946;2.714425;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-041;102400;2.641337;0.050648;2.590689;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-042;102400;2.6298;0.05124;2.578559;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-043;102400;2.841403;0.056895;2.784508;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-044;102400;2.901103;0.056756;2.844348;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-045;102400;2.554536;0.050608;2.503928;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-046;102400;2.877796;0.060249;2.817548;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-047;102400;2.549148;0.050483;2.498665;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-048;102400;2.551242;0.057721;2.493521;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-049;102400;2.802185;0.050151;2.752034;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-02-050;102400;2.616618;0.051299;2.565318;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-001;1048576;2.573419;0.398322;2.175097;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-002;1048576;2.7208;0.17757;2.543229;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-003;1048576;2.80068;0.169302;2.631378;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-004;1048576;2.602201;0.141136;2.461064;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-005;1048576;2.551412;0.1655;2.385913;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-006;1048576;3.080122;0.154043;2.926079;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-007;1048576;2.601784;0.18054;2.421244;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-008;1048576;2.785471;0.165033;2.620438;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-009;1048576;2.536308;0.162888;2.37342;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-010;1048576;2.544755;0.165874;2.378882;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-011;1048576;2.701178;0.165057;2.536121;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-012;1048576;2.820058;0.164147;2.655911;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-013;1048576;2.699785;0.147114;2.552671;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-014;1048576;2.870153;0.143217;2.726936;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-015;1048576;2.637707;0.159953;2.477754;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-016;1048576;3.06322;0.183966;2.879254;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-017;1048576;3.121937;0.165087;2.95685;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-018;1048576;2.564306;0.165956;2.39835;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-019;1048576;2.566499;0.165159;2.40134;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-020;1048576;2.83051;0.164465;2.666046;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-021;1048576;3.378759;0.164006;3.214753;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-022;1048576;2.552012;0.162353;2.38966;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-023;1048576;2.867458;0.16442;2.703038;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-024;1048576;7.030506;0.175265;6.855241;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-025;1048576;2.537775;0.164435;2.37334;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-026;1048576;2.545366;0.162463;2.382903;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-027;1048576;3.227619;0.163424;3.064195;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-028;1048576;2.717946;0.14152;2.576426;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-029;1048576;2.551063;0.164879;2.386185;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-030;1048576;2.537341;0.162552;2.374789;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-031;1048576;2.708888;0.16369;2.545198;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-032;1048576;2.715587;0.163876;2.551711;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-033;1048576;2.974969;0.163939;2.81103;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-034;1048576;2.547752;0.163904;2.383848;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-035;1048576;2.569177;0.166167;2.40301;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-036;1048576;2.84109;0.139181;2.701909;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-037;1048576;2.630096;0.163951;2.466145;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-038;1048576;2.706001;0.138152;2.567849;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-039;1048576;3.17365;0.165309;3.008341;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-040;1048576;2.61037;0.165178;2.445193;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-041;1048576;2.592886;0.163685;2.429201;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-042;1048576;2.624488;0.164193;2.460296;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-043;1048576;3.379498;0.170193;3.209305;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-044;1048576;2.819149;0.163308;2.655841;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-045;1048576;2.801903;0.165129;2.636774;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-046;1048576;3.09545;0.15739;2.93806;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-047;1048576;3.006237;0.165358;2.840879;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-048;1048576;2.716879;0.15525;2.561629;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-049;1048576;2.573563;0.164002;2.409561;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-03-050;1048576;3.405109;0.166121;3.238988;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-001;5242880;2.559718;1.087984;1.471734;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-002;5242880;2.743121;0.639127;2.103994;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-003;5242880;2.543126;0.601642;1.941485;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-004;5242880;3.393215;0.553411;2.839803;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-005;5242880;3.444069;0.599899;2.84417;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-006;5242880;2.97878;0.567858;2.410922;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-007;5242880;3.146096;0.547972;2.598124;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-008;5242880;2.729981;0.603639;2.126342;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-009;5242880;2.874197;0.546973;2.327225;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-010;5242880;3.785563;0.577268;3.208295;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-011;5242880;2.870333;0.548737;2.321596;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-012;5242880;3.144457;0.604282;2.540175;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-013;5242880;2.550184;0.605426;1.944758;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-014;5242880;2.537571;0.546805;1.990766;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-015;5242880;2.553292;0.543408;2.009884;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-016;5242880;65.743911;0.618321;65.12559;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-017;5242880;3.127985;0.619099;2.508886;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-018;5242880;3.126132;0.629325;2.496807;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-019;5242880;2.904169;0.550911;2.353258;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-020;5242880;2.786914;0.545888;2.241025;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-021;5242880;2.796672;0.596266;2.200406;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-022;5242880;2.549806;0.575877;1.973929;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-023;5242880;2.545016;0.600745;1.944271;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-024;5242880;2.572955;0.591625;1.98133;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-025;5242880;2.538769;0.576594;1.962175;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-026;5242880;2.550912;0.724501;1.82641;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-027;5242880;3.004445;0.600833;2.403613;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-028;5242880;127.055268;0.63913;126.416138;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-029;5242880;4.640296;0.634824;4.005472;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-030;5242880;3.005623;0.603534;2.402089;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-031;5242880;2.810306;0.596927;2.213379;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-032;5242880;2.777072;0.606717;2.170355;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-033;5242880;2.858411;0.598945;2.259466;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-034;5242880;2.566443;0.60412;1.962323;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-035;5242880;2.555096;0.608214;1.946882;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-036;5242880;2.564351;0.602791;1.96156;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-037;5242880;66.31922;0.757961;65.561259;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-038;5242880;2.990863;0.547553;2.44331;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-039;5242880;3.343188;0.605615;2.737573;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-040;5242880;2.950492;0.546015;2.404477;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-041;5242880;3.230609;0.599454;2.631155;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-042;5242880;2.819651;0.599176;2.220475;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-043;5242880;2.652494;0.5987;2.053794;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-044;5242880;2.561283;0.602148;1.959135;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-045;5242880;2.529904;0.605246;1.924658;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-046;5242880;2.530426;0.561118;1.969308;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-047;5242880;3.005875;0.581313;2.424562;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-048;5242880;2.537166;0.546493;1.990674;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-049;5242880;4.5746;0.60371;3.97089;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-04-050;5242880;2.751215;0.54114;2.210076;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-001;5708795;3.022516;1.368697;1.653819;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-002;5708795;2.694703;0.640674;2.054029;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-003;5708795;2.695576;0.641426;2.05415;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-004;5708795;3.33305;0.584531;2.748519;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-005;5708795;2.523778;0.748814;1.774964;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-006;5708795;2.546478;0.654482;1.891996;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-007;5708795;2.645425;0.669289;1.976137;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-008;5708795;3.160728;0.614286;2.546442;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-009;5708795;2.5354;0.645202;1.890198;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-010;5708795;2.612826;0.673457;1.939369;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-011;5708795;2.850217;0.639665;2.210552;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-012;5708795;2.994684;0.645659;2.349025;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-013;5708795;2.882782;0.646265;2.236517;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-014;5708795;2.767782;0.641939;2.125843;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-015;5708795;2.821004;0.751598;2.069406;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-016;5708795;2.804364;0.677885;2.126479;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-017;5708795;2.530676;0.588607;1.942069;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-018;5708795;2.536297;0.639889;1.896408;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-019;5708795;2.920488;0.588885;2.331604;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-020;5708795;2.513131;0.646274;1.866857;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-021;5708795;2.573979;0.586978;1.987;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-022;5708795;2.536033;0.653859;1.882175;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-023;5708795;2.703065;0.635878;2.067187;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-024;5708795;2.759548;0.648608;2.11094;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-025;5708795;2.742242;0.641136;2.101106;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-026;5708795;2.710727;0.637271;2.073456;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-027;5708795;2.757524;0.678279;2.079245;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-028;5708795;2.731314;0.59262;2.138695;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-029;5708795;2.523782;0.643791;1.879991;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-030;5708795;2.532142;0.640519;1.891623;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-031;5708795;3.007737;0.594754;2.412983;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-032;5708795;2.598482;0.644098;1.954384;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-033;5708795;2.553021;0.645919;1.907102;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-034;5708795;2.605099;0.583841;2.021258;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-035;5708795;2.860117;0.673558;2.186559;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-036;5708795;3.067454;0.642183;2.425271;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-037;5708795;3.205804;0.651102;2.554703;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-038;5708795;2.884402;0.644356;2.240045;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-039;5708795;2.827891;0.639431;2.18846;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-040;5708795;2.716895;0.64989;2.067005;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-041;5708795;2.524724;0.633033;1.891691;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-042;5708795;3.072106;0.639144;2.432962;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-043;5708795;2.513133;0.641907;1.871226;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-044;5708795;2.520468;0.642676;1.877791;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-045;5708795;2.530716;0.636622;1.894094;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-046;5708795;2.521332;0.644885;1.876446;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-047;5708795;2.768705;0.642524;2.126181;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-048;5708795;2.78428;0.693892;2.090388;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-049;5708795;2.696934;0.634928;2.062007;Sucesso;0.170393
+bateria_2;out_of_band;b2-out-of-band-05-050;5708795;2.70726;0.646699;2.060561;Sucesso;0.170393
