@@ -1,0 +1,16 @@
+\begin{table}[htb]
+    \centering
+    \caption{Comparativo Preliminar de Latência: \textit{In-Band} vs. \textit{Out-of-Band}}
+    \label{tab:resultados_preliminares}
+    \begin{tabular}{@{}llcc@{}}
+        \toprule
+        \textbf{Tamanho do Arquivo} & \textbf{Abordagem} & \textbf{Taxa de Sucesso} & \textbf{RTT Médio Observado} \\ \midrule
+        100 KB & \textit{In-Band} & 100\% & 4,37 segundos \\
+        1 MB & \textit{In-Band} & 100\% & 6,27 segundos \\
+        5 MB & \textit{In-Band} & 100\% & 14,48 segundos \\
+        5 MB & \textit{Out-of-Band} & \textbf{100\%} & \textbf{4,31 segundos} \\ \midrule
+        10 MB & \textit{In-Band} & 0\% (Falha no limite) & N/A \\
+        10 MB & \textit{Out-of-Band} & \textbf{100\%} & \textbf{4,36 segundos} \\ \bottomrule
+    \end{tabular}
+    \legend{Fonte: o autor.}
+\end{table}
